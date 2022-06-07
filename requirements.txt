@@ -1,6 +1,7 @@
 asgiref==3.4.1
 attrs==21.2.0
 Django==3.1.5
+matplotlib==3.4.3
 pytz==2021.1
 sqlparse==0.4.2
 waitress==2.1.2
